@@ -1,0 +1,34 @@
+
+
+[
+    {
+      "id": 1,
+      "title": "Power Distribution",
+      "description": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica.",
+      "image": "PowerDistribution.jpeg",
+      "altText": "green iguana"
+    },
+    {
+      "id": 2,
+      "title": "Power Transmission",
+      "description": "Chameleons are known for their ability to change color and their long, sticky tongues used for catching insects.",
+      "image": "/PowerTransmission.jpg",
+      "altText": "colorful chameleon"
+    },
+    {
+      "id": 3,
+      "title": "Solar Renewal Energy",
+      "description": "Geckos are unique among lizards in their vocalizations, which they use to communicate with other geckos.",
+      "image": "./SolarRenewalEnergy.jpg",
+      "altText": "speckled gecko"
+    },
+    {
+      "id": 4,
+      "title": "Solar Training",
+      "description": "Iguanas are large herbivorous lizards native to Central and South America, known for their distinctive appearance.",
+      "image": "solarTraining.jpeg",
+      "altText": "large iguana"
+    }
+    
+  ]
+  
