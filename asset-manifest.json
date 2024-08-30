@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/crossworld/static/css/main.47372fa2.css",
+    "main.js": "/crossworld/static/js/main.78ee2415.js",
+    "static/js/453.2a9d2b04.chunk.js": "/crossworld/static/js/453.2a9d2b04.chunk.js",
+    "static/media/AboutCompany.png": "/crossworld/static/media/AboutCompany.866800598b17cd773e18.png",
+    "static/media/logo2.ico": "/crossworld/static/media/logo2.9420c87b9831c5be9ae3.ico",
+    "static/media/PowerTransmission.jpeg": "/crossworld/static/media/PowerTransmission.290c79c0753daabd8293.jpeg",
+    "static/media/SolarRenewalEnergy.jpeg": "/crossworld/static/media/SolarRenewalEnergy.8eb017fee12b60308687.jpeg",
+    "static/media/crousal_image1.webp": "/crossworld/static/media/crousal_image1.58bf52c656e16b431d63.webp",
+    "static/media/solarTraining.jpeg": "/crossworld/static/media/solarTraining.e208600556a95b9c9fea.jpeg",
+    "static/media/PowerDistribution.jpeg": "/crossworld/static/media/PowerDistribution.5f424fe0e845e403fc89.jpeg",
+    "static/media/partner2.png": "/crossworld/static/media/partner2.16800b98e755d142f86b.png",
+    "static/media/partner1.png": "/crossworld/static/media/partner1.6a7d368093220798c199.png",
+    "static/media/crousal2.jpeg": "/crossworld/static/media/crousal2.9ef91d42ed4bd0748737.jpeg",
+    "index.html": "/crossworld/index.html",
+    "static/media/logo.svg": "/crossworld/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/crossworld/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/crossworld/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/crossworld/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/crossworld/static/media/slick.295183786cd8a1389865.woff",
+    "main.47372fa2.css.map": "/crossworld/static/css/main.47372fa2.css.map",
+    "main.78ee2415.js.map": "/crossworld/static/js/main.78ee2415.js.map",
+    "453.2a9d2b04.chunk.js.map": "/crossworld/static/js/453.2a9d2b04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47372fa2.css",
+    "static/js/main.78ee2415.js"
+  ]
+}
